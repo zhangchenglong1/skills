@@ -1,0 +1,14 @@
+{
+  "name": "feishu-openapi",
+  "version": "1.0.0",
+  "description": "飞书开放平台 API 调用技能",
+  "author": "OpenClaw",
+  "license": "MIT",
+  "keywords": ["feishu", "lark", "api", "openapi", "飞书"],
+  "categories": ["productivity"],
+  "dependencies": ["requests"],
+  "requirements": [],
+  "platform": "all",
+  "minNodeVersion": "16.0.0",
+  "manifestVersion": 2
+}
